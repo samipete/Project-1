@@ -1,5 +1,3 @@
-# Project-1
-
 **Billboard Charting Artists with RIAA Certifications**
 ![riaa image](images/riaapic.jpg)
 
